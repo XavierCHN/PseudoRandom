@@ -1,5 +1,6 @@
 -- Adapted from Keith Peters' JavaScript code:
 -- https://www.youtube.com/watch?v=4sYawx70iP4
+-- https://jsbin.com/nifutup/1/edit?js,output
 -- Linear congruential generator in Lua for Corona SDK
 
 local function drawRandom(seed)
